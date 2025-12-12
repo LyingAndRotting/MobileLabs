@@ -20,5 +20,6 @@ dependencyResolutionManagement {
 }
 
 rootProject.name = "Lab4"
-include(":app")
- 
+include(":quadrant")
+include(":businesscard")
+include(":birthdaycard")

@@ -10,7 +10,9 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/birthdaycard" />
+            <option value="$PROJECT_DIR$/businesscard" />
+            <option value="$PROJECT_DIR$/quadrant" />
           </set>
         </option>
       </GradleProjectSettings>
